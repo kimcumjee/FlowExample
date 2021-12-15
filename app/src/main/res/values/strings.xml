@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="et_get_weather">날씨 받아오기</string>
+    <string name="temp">°C</string>
+    <string name="flow">flow체험</string>
+    <string name="callbackflow">CallBackFlow체험</string>
+    <string name="channelflow">ChannelFlow체험</string>
+</resources>
